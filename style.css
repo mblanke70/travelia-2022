@@ -1,0 +1,9 @@
+/* Element anhand seiner ID auswählen */
+#latest-from-the-blog {
+    background-color: lightblue;
+}
+
+/* Element anhand seines Elementtyps auswählen */
+footer {
+    background-color: lightgray;
+}
